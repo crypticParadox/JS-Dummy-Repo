@@ -21,4 +21,5 @@ if (operator == '+'){
 }
 //display result
 console.log(result);
+alert(result);
 
